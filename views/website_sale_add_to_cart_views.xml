@@ -5,11 +5,11 @@
             <xpath expr="." position="inside">
                 <script
                     type="text/javascript"
-                    src="/website_sale_add_to_cart/static/src/js/website_sale_add_to_cart.js"
+                    src="/website_sale_quick_cart/static/src/js/website_sale_add_to_cart.js"
                 />
                 <link
                     rel='stylesheet'
-                    href='/website_sale_add_to_cart/static/src/css/website_sale_add_to_cart.css'
+                    href='/website_sale_quick_cart/static/src/css/website_sale_add_to_cart.css'
                 />
             </xpath>
         </template>
@@ -20,7 +20,7 @@
         >
             <xpath expr="." position="inside">
                 <script
-                    src="/website_sale_add_to_cart/static/src/js/website_sale_add_to_cart_tour.js"
+                    src="/website_sale_quick_cart/static/src/js/website_sale_add_to_cart_tour.js"
                     type="text/javascript"
                 />
             </xpath>
