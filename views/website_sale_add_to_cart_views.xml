@@ -43,7 +43,7 @@
                     <a 
                         t-attf-href="#"
                         class="btn btn-secondary mb8 input-group-addon js_add_cart_json"
-                        style="border-top-right-radius:0;border-bottom-right-radius:0;"
+                        style="border-top-right-radius:0;border-bottom-right-radius:0;height:100%;"
                     >
                         <i class="fa fa-minus" />
                     </a>
@@ -57,7 +57,7 @@
                     <a
                         t-attf-href="#"
                         class="btn btn-secondary mb8 input-group-addon float_left js_add_cart_json"
-                        style="border-top-left-radius:0;border-bottom-left-radius:0;"
+                        style="border-top-left-radius:0;border-bottom-left-radius:0;height:100%;"
                     >
                         <i class="fa fa-plus" />
                     </a>
