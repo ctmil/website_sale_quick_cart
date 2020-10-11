@@ -33,7 +33,7 @@
             name="Quick add to Cart (product list)"
         >
             <xpath
-                expr="//div[@itemtype='http://schema.org/Product']"
+                expr="//form[@itemtype='http://schema.org/Product']"
                 position="inside"
             >
                 <div
